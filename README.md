@@ -1,17 +1,17 @@
-## How to make a squishy controller for a Unity game
+# How to make a squishy controller for a Unity game
 
 This is a workshop that explores a new interface for tangible interaction.
 
 Using a pressure sensor as an analog input during the workshop we will understand how analog communication differs from digital communication in electronics, how to setup the sensor for basic prototyping and experiment in designing a controller for a simple Unity game.
 
-# Skills acquired
+## Skills acquired
 Analog and digital communication
 Serial communication with Arduino UNO 
 Circuit sketch reading and designing
 Tangible interaction prototyping
 Unity game design
 
-# Material
+## Material
 Arduino UNO 
 Pressure Sensor MPX5010GP CASE 867B-04 (Available in Digikey and Mouser)
 Prototyping cables 
@@ -22,7 +22,7 @@ Enema bulb/ bulb syringe/regular syringe/Slime )
 4mm screws or double sided permanent tape to fix components
 M2 Standoffs to make prototype
 
-## Day 1 
+# Day 1 
 - [Analog vs Digital: what is what and how they work for microcontrollers] (https://www.youtube.com/watch?v=QsYcYknKbB0)
 - Build basic circuit for controller ()
 - [Basic code for analog sensor] ()
@@ -31,7 +31,7 @@ M2 Standoffs to make prototype
 - [Circuit with LED] ()
 - [Map values from agalogRead to agalogWrite] (https://forum.arduino.cc/index.php?topic=411914.0)
 
-## Day 2
+# Day 2
 - Basic Unity game by Brackeys
   * [E01] (https://www.youtube.com/watch?v=IlKaB1etrik)
   * [E02] ()

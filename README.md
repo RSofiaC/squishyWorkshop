@@ -25,23 +25,23 @@ M2 Standoffs to make prototype
 
 # Day 1 
 - [Analog vs Digital: what is what and how they work for microcontrollers](https://www.youtube.com/watch?v=QsYcYknKbB0)
-- Build basic circuit for controller ()
-- [Basic code for analog sensor] ()
+- Build basic circuit for controller(https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Schematics)
+- [Basic code for analog sensor](https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Sketches)
 - [Serial communication](https://learn.sparkfun.com/tutorials/serial-communication/all)
 - [Analog Reading vs Multimiter Reading](https://vimeo.com/90534361)
-- [Circuit with LED] ()
+- [Circuit with LED](https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Schematics)
 - [Map values from agalogRead to agalogWrite](https://forum.arduino.cc/index.php?topic=411914.0)
 
 # Day 2
 - Basic Unity game by Brackeys
   * [E01](https://www.youtube.com/watch?v=IlKaB1etrik)
-  * [E02]()
-  * [E03]()
-  * [E04]()
-  * [E05]()
-  * [E06]()
-  * [E07]()
-  * [E08]()
+  * [E02](https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Schematics)
+  * [E03](https://www.youtube.com/watch?v=Au8oX5pu5u4)
+  * [E04](https://www.youtube.com/watch?v=HVB6UVcb3f8)
+  * [E05](https://www.youtube.com/watch?v=gAB64vfbrhI)
+  * [E06](https://www.youtube.com/watch?v=D4I0I3QJAvc)
+  * [E07](https://www.youtube.com/watch?v=TAGZxRMloyU&t=16s)
+  * [E08](https://www.youtube.com/watch?v=VbZ9_C4-Qbo)
 - [Enclosure making](https://www.ponoko.com/blog/how-to-make/making-enclosures-for-electronics-with-ponoko/)
 
 #Extra references

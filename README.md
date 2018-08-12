@@ -44,7 +44,7 @@ M2 Standoffs to make prototype
   * [E08](https://www.youtube.com/watch?v=VbZ9_C4-Qbo)
 - [Enclosure making](https://www.ponoko.com/blog/how-to-make/making-enclosures-for-electronics-with-ponoko/)
 
-#Extra references
+# Extra references
 - [Ardunity](https://www.youtube.com/watch?v=sfqI9YLHCL8)
 - [Arduino Leonardo, also applicable for Micro as keyboard](https://www.youtube.com/watch?v=0fjuJOkk8y4&t=13s)
 - [OSC to Unity](http://thomasfredericks.github.io/UnityOSC/)

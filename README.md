@@ -1,5 +1,6 @@
 # How to make a squishy controller for a Unity game
 
+[Getting Started](https://mappa.js.org/docs/getting-started.html)
 This is a workshop that explores a new interface for tangible interaction.
 
 Using a pressure sensor as an analog input during the workshop we will understand how analog communication differs from digital communication in electronics, how to setup the sensor for basic prototyping and experiment in designing a controller for a simple Unity game.

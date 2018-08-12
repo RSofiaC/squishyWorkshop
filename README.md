@@ -27,15 +27,15 @@ M2 Standoffs to make prototype
 - [Analog vs Digital: what is what and how they work for microcontrollers](https://www.youtube.com/watch?v=QsYcYknKbB0)
 - Build basic circuit for controller ()
 - [Basic code for analog sensor] ()
-- [Serial communication] (https://learn.sparkfun.com/tutorials/serial-communication/all)
-- [Analog Reading vs Multimiter Reading] (https://vimeo.com/90534361)
+- [Serial communication](https://learn.sparkfun.com/tutorials/serial-communication/all)
+- [Analog Reading vs Multimiter Reading](https://vimeo.com/90534361)
 - [Circuit with LED] ()
-- [Map values from agalogRead to agalogWrite] (https://forum.arduino.cc/index.php?topic=411914.0)
+- [Map values from agalogRead to agalogWrite](https://forum.arduino.cc/index.php?topic=411914.0)
 
 # Day 2
 - Basic Unity game by Brackeys
-  * [E01] (https://www.youtube.com/watch?v=IlKaB1etrik)
-  * [E02] ()
+  * [E01](https://www.youtube.com/watch?v=IlKaB1etrik)
+  * [E02]()
   * [E03]()
   * [E04]()
   * [E05]()
@@ -45,13 +45,13 @@ M2 Standoffs to make prototype
 - [Enclosure making](https://www.ponoko.com/blog/how-to-make/making-enclosures-for-electronics-with-ponoko/)
 
 #Extra references
-- [Ardunity] (https://www.youtube.com/watch?v=sfqI9YLHCL8)
-- [Arduino Leonardo, also applicable for Micro as keyboard] (https://www.youtube.com/watch?v=0fjuJOkk8y4&t=13s)
-- [OSC to Unity] (http://thomasfredericks.github.io/UnityOSC/)
-- [Networked controllers] (https://www.youtube.com/watch?v=TvqQJgj2XMM)
+- [Ardunity](https://www.youtube.com/watch?v=sfqI9YLHCL8)
+- [Arduino Leonardo, also applicable for Micro as keyboard](https://www.youtube.com/watch?v=0fjuJOkk8y4&t=13s)
+- [OSC to Unity](http://thomasfredericks.github.io/UnityOSC/)
+- [Networked controllers](https://www.youtube.com/watch?v=TvqQJgj2XMM)
 - Other Pressure control applications
-  * [The Blob] (https://youtu.be/q7_KyU8ibm8?t=46m59s)
+  * [The Blob](https://youtu.be/q7_KyU8ibm8?t=46m59s)
   * [SUP mouse](https://www.instructables.com/id/The-Sup-a-Mouse-for-Quadriplegics-Low-Cost-and-Ope/)
-  * [DMX light control] (https://www.youtube.com/watch?v=Kk8fs99TJWw)
+  * [DMX light control](https://www.youtube.com/watch?v=Kk8fs99TJWw)
   
 

@@ -1,6 +1,6 @@
 # How to make a squishy controller for a Unity game
 
-[Getting Started](https://mappa.js.org/docs/getting-started.html)
+
 This is a workshop that explores a new interface for tangible interaction.
 
 Using a pressure sensor as an analog input during the workshop we will understand how analog communication differs from digital communication in electronics, how to setup the sensor for basic prototyping and experiment in designing a controller for a simple Unity game.
@@ -24,7 +24,7 @@ Enema bulb/ bulb syringe/regular syringe/Slime )
 M2 Standoffs to make prototype
 
 # Day 1 
-- [Analog vs Digital: what is what and how they work for microcontrollers] (https://www.youtube.com/watch?v=QsYcYknKbB0)
+- [Analog vs Digital: what is what and how they work for microcontrollers](https://www.youtube.com/watch?v=QsYcYknKbB0)
 - Build basic circuit for controller ()
 - [Basic code for analog sensor] ()
 - [Serial communication] (https://learn.sparkfun.com/tutorials/serial-communication/all)

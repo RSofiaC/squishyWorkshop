@@ -25,7 +25,7 @@ M2 Standoffs to make prototype
 
 # Day 1 
 - [Analog vs Digital: what is what and how they work for microcontrollers](https://www.youtube.com/watch?v=QsYcYknKbB0)
-- Build basic circuit for controller(https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Schematics)
+- [Build basic circuit for controller](https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Schematics)
 - [Basic code for analog sensor](https://github.com/RSofiaC/squishyWorkshop/tree/master/Arduino/Sketches)
 - [Serial communication](https://learn.sparkfun.com/tutorials/serial-communication/all)
 - [Analog Reading vs Multimiter Reading](https://vimeo.com/90534361)
